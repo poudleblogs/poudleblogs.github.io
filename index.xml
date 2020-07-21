@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poudle Blogs</title>
+    <link>https://blog.poudle.com/</link>
+    <description>Recent content on Poudle Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2020 15:30:58 +0530</lastBuildDate>
+    
+	<atom:link href="https://blog.poudle.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post</title>
+      <link>https://blog.poudle.com/posts/my-first-post/</link>
+      <pubDate>Tue, 21 Jul 2020 15:30:58 +0530</pubDate>
+      
+      <guid>https://blog.poudle.com/posts/my-first-post/</guid>
+      <description>Hi there,
+We at poudle are working hard to get things in order and would like to update you guys on what we are working towards. So tag along and enjoy the ride. Make sure to have fun</description>
+    </item>
+    
+  </channel>
+</rss>
